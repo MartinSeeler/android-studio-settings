@@ -1,0 +1,43 @@
+<application>
+  <component name="DiffManager">
+    <enableFiles value="true" />
+    <enableMerge value="true" />
+    <filesTool value="/usr/local/bin/ksdiff" newValue="/usr/local/bin/ksdiff" />
+    <mergeTool value="/usr/local/bin/ksdiff" newValue="/usr/local/bin/ksdiff" />
+    <mergeToolParameters value="--merge --output %4 --base %3 %1 %2" />
+  </component>
+  <component name="DiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_ENABLED" value="true" />
+    <option name="DIFF_DEFAULT" value="true" />
+    <option name="DIFF_EXE_PATH" value="/usr/local/bin/ksdiff" />
+    <option name="DIFF_PARAMETERS" value="--diff %1 %2" />
+    <option name="MERGE_ENABLED" value="true" />
+    <option name="MERGE_EXE_PATH" value="/usr/local/bin/ksdiff" />
+    <option name="MERGE_PARAMETERS" value="--merge --output %4 --base %3 %1 %2" />
+    <option name="MERGE_TRUST_EXIT_CODE" value="true" />
+  </component>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="ChangesView">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="CommitDialog">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
+</application>

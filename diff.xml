@@ -8,6 +8,9 @@
   </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
+      <entry key="ChangesView">
+        <PlaceSettings />
+      </entry>
       <entry key="Default">
         <PlaceSettings />
       </entry>

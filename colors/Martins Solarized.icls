@@ -19,7 +19,7 @@
     <option name="SELECTION_FOREGROUND" value="fdf6e3" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="eee8d5" />
     <option name="TEARLINE_COLOR" value="eee8d5" />
-    <option name="WHITESPACES" value="eee8d5" />
+    <option name="WHITESPACES" value="dbd5c2" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -28,6 +28,19 @@
         <option name="EFFECT_COLOR" value="cb4b16" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="cb4b16" />
+      </value>
+    </option>
+    <option name="CSS.IDENT">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value />
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
@@ -58,6 +71,12 @@
         <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="d33682" />
@@ -84,6 +103,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="d33682" />
@@ -96,6 +120,9 @@
       <value>
         <option name="FOREGROUND" value="2aa198" />
       </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value />
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
@@ -125,6 +152,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -149,8 +181,14 @@
         <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="268bd2" />

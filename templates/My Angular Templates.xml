@@ -1,0 +1,5 @@
+<templateSet group="My Angular Templates">
+  <template name="foo" value="abc" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
+    <option name="customScope" value="Project 'conrad-search-ui'" />
+    <option name="defaultScopeName" value="Project 'conrad-search-ui'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="SEARCH_SCOPE" value="Project 'conrad-search-ui'" />
   </component>
 </application>

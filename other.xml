@@ -73,7 +73,7 @@
     <resource url="http://schema.org/WebPage" location="$USER_HOME$/Library/Caches/WebStorm11/extResources/c1e1c47d_WebPage.html" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.1.0" last-modified="1447998803000" />
-    <node-interpreter path="/usr/local/Cellar/node/5.1.0/bin/node" version="5.1.0" last-modified="1447998803000" />
+    <node-interpreter path="/usr/local/bin/node" version="5.5.0" last-modified="1453338507000" />
+    <node-interpreter path="/usr/local/Cellar/node/5.5.0/bin/node" version="5.5.0" last-modified="1453338507000" />
   </component>
 </application>

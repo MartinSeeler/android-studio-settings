@@ -66,12 +66,6 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://schema.org/Blog" location="$USER_HOME$/Library/Caches/WebStorm11/extResources/97502568_Blog.html" />
-    <resource url="http://schema.org/BlogPosting" location="$USER_HOME$/Library/Caches/WebStorm11/extResources/998dc8ba_BlogPosting.html" />
-    <resource url="http://schema.org/TechArticle" location="$USER_HOME$/Library/Caches/WebStorm11/extResources/c3f64cfa_TechArticle.html" />
-    <resource url="http://schema.org/WebPage" location="$USER_HOME$/Library/Caches/WebStorm11/extResources/c1e1c47d_WebPage.html" />
-  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="5.5.0" last-modified="1453338507000" />
     <node-interpreter path="/usr/local/Cellar/node/5.5.0/bin/node" version="5.5.0" last-modified="1453338507000" />

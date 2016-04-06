@@ -71,7 +71,7 @@
       <version-cache version="5.9.1" last-modified="1458749067000" />
     </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="5.9.1" last-modified="1458749067000" />
+      <version-cache version="5.10.0" last-modified="1459475540000" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/5.9.0/bin/node">
       <version-cache last-modified="0" />

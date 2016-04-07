@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="xml2json" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>

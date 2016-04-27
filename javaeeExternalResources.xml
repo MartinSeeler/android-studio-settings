@@ -1,8 +1,0 @@
-<application>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://schema.org/Blog" location="$USER_HOME$/Library/Caches/WebStorm11/extResources/97502568_Blog.html" />
-    <resource url="http://schema.org/BlogPosting" location="$USER_HOME$/Library/Caches/WebStorm11/extResources/998dc8ba_BlogPosting.html" />
-    <resource url="http://schema.org/TechArticle" location="$USER_HOME$/Library/Caches/WebStorm11/extResources/c3f64cfa_TechArticle.html" />
-    <resource url="http://schema.org/WebPage" location="$USER_HOME$/Library/Caches/WebStorm11/extResources/c1e1c47d_WebPage.html" />
-  </component>
-</application>
